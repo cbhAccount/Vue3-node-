@@ -1,0 +1,1 @@
+这是一个基于前端Vue3与后端node+mongdb项目的全栈练习项目，其中web端用vue3中vite+pinia，admin端用vue3的yarn管理
